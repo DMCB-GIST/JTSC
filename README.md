@@ -1,4 +1,4 @@
-# JTSC: Joint triplet loss with semi-hard constraint for data augmentation and disease prediction using gene expression data
+# Joint triplet loss with semi-hard constraint for data augmentation and disease prediction using gene expression data
 
 The joint triplet loss model with a semi-hard constraint (JTSC) is designed to represent data with a small number of samples. JTSC uses a strict selection process for semi-hard samples to construct triplets, combined with an angular loss function to achieve better prediction results in the tasks.
 
